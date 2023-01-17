@@ -25,6 +25,10 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt"">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt=""/>
 </div>
+<div>
+  <h2>Proyectos: </h2>
+  <h6>Proyecto Individual para bootcamp SoyHenry consumiento la Api de Pokemon. Link del repo: https://github.com/MFaii/PI-Pokemon </h6>
+</div>
 <div id="badges" align="center">
   <h2>Puedes contactarme :</h2>
   <a href="https://www.linkedin.com/in/maximilianofailla/" target="_blank">
