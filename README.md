@@ -27,7 +27,7 @@
 </div>
 <div>
   <h2>Proyectos: </h2>
-  <h6>Proyecto Individual para bootcamp SoyHenry consumiento la Api de Pokemon. Link del repo: https://github.com/MFaii/PI-Pokemon </h6>
+  <h4>Proyecto Individual para bootcamp SoyHenry consumiento la Api de Pokemon. Link del repo: https://github.com/MFaii/PI-Pokemon </h4>
 </div>
 <div id="badges" align="center">
   <h2>Puedes contactarme :</h2>
