@@ -32,7 +32,7 @@
 <div>
   <h2>Proyectos: </h2>
   <h4>Proyecto Individual para bootcamp SoyHenry consumiento la Api de Pokemon. Link del repo: https://github.com/MFaii/PI-Pokemon </h4>
-  <h4>Basic React Form con Formik, Yup y Semantic UI . Link del repo: https://github.com/MFaii/React-Form-with-Formik-Yup-and-Semantic-UI</h4>
+  <h4>Práctica de un formulario básico en React con Formik, Yup y Semantic UI . Link del repo: https://github.com/MFaii/React-Form-with-Formik-Yup-and-Semantic-UI</h4>
 </div>
 <div id="badges" align="center">
   <h2>Puedes contactarme :</h2>
