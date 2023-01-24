@@ -27,7 +27,6 @@
 <div>
   <h4>Actualmente aprendiendo :</h4>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma_badge"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt=""/>
 </div>
 <div>
   <h2>Proyectos: </h2>
