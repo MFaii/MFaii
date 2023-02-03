@@ -25,6 +25,7 @@
 </div>
 <div>
   <h4>Actualmente aprendiendo :</h4>
+  <img src"https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt"bootstrap badge" />
   
 </div>
 <div>
