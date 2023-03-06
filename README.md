@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200" />
+  
   <h1 align="center">Hola!👋🏽 , soy Maximiliano Failla </h1>
   <h3 align="center">Estudiante FullStack en SoyHenry</h3>
 </div>
