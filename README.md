@@ -1,7 +1,7 @@
 <div id="header" align="center">
   
   <h1 align="center">Hola!👋🏽 , soy Maximiliano Failla </h1>
-  <h4 align="center">Desarrollador FullStack egresado del bootcamp SoyHenry</h4>
+  <h3 align="center">Dev. Full Stack</h3>
 </div>
 <div>
   <h2>Tecnologías :</h2>
