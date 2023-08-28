@@ -34,6 +34,7 @@
   <h4>Geolocalización en React <br>Repo: https://github.com/MFaii/react-geolocation</h4>
   <h4>React Tweets<br>Repo: https://github.com/MFaii/react-tweet</h4>
   <h4>Videogames App<br>Repo: https://github.com/MFaii/PI-Videogames</h4>
+  <h4>WebSocket Chat<br>Repo back: https://github.com/Nikire/WebSocketChat<br>Repo front: https://github.com/Nikire/WebSocketChatFE</h4>
   <h4>Rick And Morty Simple App<br>Repo: https://github.com/MFaii/RickandMorty-Basic <br>Demo: https://rickand-morty-basic.vercel.app/</h4>
 </div>
 <div id="badges" align="center">
