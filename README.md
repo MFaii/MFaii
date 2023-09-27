@@ -24,6 +24,7 @@
 <div>
   <h4>Actualmente aprendiendo :</h4>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react native badge"/>
 </div>
 <div>
   <h2>Proyectos: </h2>
