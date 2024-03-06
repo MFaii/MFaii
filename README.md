@@ -33,8 +33,6 @@
   <h2>Proyectos: </h2>
   <h4>Portfolio<br>Repo: https://github.com/MFaii/portfolio_public <br>Demo: https://portfolio-maximilianofailla.vercel.app/</h4>
   <h4>Proyecto Individual para bootcamp SoyHenry consumiento la Api de Pokemon. <br>Repo: https://github.com/MFaii/PI-Pokemon </h4>
-  <h4>Práctica de un formulario básico en React con Formik, Yup y Semantic UI. <br>Repo: https://github.com/MFaii/React-Form-with-Formik-Yup-and-Semantic-UI <br/</h4>
-  <h4>Geolocalización en React <br>Repo: https://github.com/MFaii/react-geolocation</h4>
   <h4>React Tweets<br>Repo: https://github.com/MFaii/react-tweet</h4>
   <h4>Videogames App<br>Repo: https://github.com/MFaii/PI-Videogames</h4>
   <h4>WebSocket Chat<br>Repo back: https://github.com/Nikire/WebSocketChat<br>Repo front: https://github.com/Nikire/WebSocketChatFE</h4>
