@@ -31,19 +31,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt=""/> 
 </div>
-<div>
-  <h4>Futuros intereses :</h4>
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt""/>
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt""/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt"ts badge"/>
-  
-</div>
-<div>
-  <h4>Actualmente aprendiendo :</h4>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react native badge"/>  
-</div>
-<div>
+
   <h2>Proyectos: </h2>
   <h4>Portfolio<br>Repo: https://github.com/MFaii/portfolio_public <br>Demo: https://portfolio-maximilianofailla.vercel.app/</h4>
   <h4>Proyecto Individual para bootcamp SoyHenry consumiento la Api de Pokemon. <br>Repo: https://github.com/MFaii/PI-Pokemon </h4>
