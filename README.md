@@ -53,3 +53,4 @@
   <h4>Rick And Morty Simple App<br>Repo: https://github.com/MFaii/RickandMorty-Basic <br>Demo: https://rickand-morty-basic.vercel.app/</h4>
 </div>
 
+
