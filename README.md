@@ -1,7 +1,21 @@
-<div id="header" align="center">
+<div id="header">
   
-  <h1 align="center">Hola!👋🏽 , soy Maximiliano Failla </h1>
-  <h3 align="center">Dev. Full Stack</h3>
+ ### Hola!! 👋 
+* 👂 Mi nombre es Maximiliano Failla, me conocen como Fai.
+* 🔭 Actualmente estoy en búsqueda de mi primera oportunidad en el mundo IT. 
+* 🌱 Actualmente estoy desarrollando una aplicación personal, tanto el back como el front de un blog.
+* 🤝 Estoy buscando colaborar en cualquier tipo de proyecto que me deje expandir experiencia y conocimientos.
+* 💬 Pregúntame sobre lo que quieras, siempre estoy dispuesto a conversar.
+* ❤️ Me encanta todo lo relacionado al mundo la computación y el gaming.
+* 📫 Cómo contactarme:
+
+  <a href="https://www.linkedin.com/in/maximilianofailla/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
+  <a href="mailto:faillamaximiliano@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
 </div>
 <div>
   <h2>Tecnologías :</h2>
@@ -38,12 +52,4 @@
   <h4>WebSocket Chat<br>Repo back: https://github.com/Nikire/WebSocketChat<br>Repo front: https://github.com/Nikire/WebSocketChatFE</h4>
   <h4>Rick And Morty Simple App<br>Repo: https://github.com/MFaii/RickandMorty-Basic <br>Demo: https://rickand-morty-basic.vercel.app/</h4>
 </div>
-<div id="badges" align="center">
-  <h2>Puedes contactarme :</h2>
-  <a href="https://www.linkedin.com/in/maximilianofailla/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
-  </a>
-  <a href="mailto:faillamaximiliano@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
+
