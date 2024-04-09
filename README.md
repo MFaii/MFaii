@@ -3,7 +3,7 @@
  ### Hola!! 👋 
 * 👂 Mi nombre es Maximiliano Failla, me conocen como Fai.
 * 🔭 Actualmente estoy en búsqueda de mi primera oportunidad en el mundo IT. 
-* 🌱 Actualmente estoy desarrollando una aplicación personal, tanto el back como el front de un blog.
+* 🌱 Actualmente estoy desarrollando una aplicación personal, tanto el back como el front.
 * 🤝 Estoy buscando colaborar en cualquier tipo de proyecto que me deje expandir experiencia y conocimientos.
 * 💬 Pregúntame sobre lo que quieras, siempre estoy dispuesto a conversar.
 * ❤️ Me encanta todo lo relacionado al mundo la computación y el gaming.
