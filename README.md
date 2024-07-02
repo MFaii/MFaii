@@ -58,5 +58,8 @@
   <h4>Videogames App<br>Repo: https://github.com/MFaii/PI-Videogames</h4>
   <h4>Rick And Morty Simple App<br>Repo: https://github.com/MFaii/RickandMorty-Basic <br>Demo: https://rickand-morty-basic.vercel.app/</h4>
 </div>
-
+<div>
+  <h2>Proyectos Freelance </h2>
+    <h4>Portfolio para editor de videos<br>Demo:https://yoakoportfolio.vercel.app/</h4>
+</div>
 
