@@ -3,7 +3,7 @@
  ### Hola!! 👋 
 * 👂 Mi nombre es Maximiliano Failla, me conocen como Fai.
 * 🔭 Actualmente estoy en búsqueda de mi primera oportunidad en el mundo IT. 
-* 🌱 Actualmente estoy desarrollando un nuevo portfolio.
+* 🌱 Actualmente estoy desarrollando -> [].
 * 🤝 Estoy buscando colaborar en cualquier tipo de proyecto que me deje expandir experiencia y conocimientos.
 * 💬 Pregúntame sobre lo que quieras, siempre estoy dispuesto a conversar.
 * ❤️ Me encanta todo lo relacionado al mundo la computación y el gaming.
@@ -52,7 +52,7 @@
 </div>
 
   <h2>Proyectos: </h2>
-  <h4>Portfolio<br>Repo: https://github.com/MFaii/portfolio_public <br>Demo: https://portfolio-maximilianofailla.vercel.app/</h4>
+  <h4>Portfolio<br>Repo:https://github.com/MFaii/portfolio_2024 <br>Demo: https://maximilianofailla-portfolio2024.vercel.app/</h4>
   <h4>Proyecto Individual para bootcamp SoyHenry consumiento la Api de Pokemon. <br>Repo: https://github.com/MFaii/PI-Pokemon </h4>
   <h4>React Tweets<br>Repo: https://github.com/MFaii/react-tweet</h4>
   <h4>Videogames App<br>Repo: https://github.com/MFaii/PI-Videogames</h4>
