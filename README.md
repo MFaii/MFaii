@@ -2,7 +2,7 @@
   
  ### Hola!! 👋 
 * 👂 Mi nombre es Maximiliano Failla, me conocen como Fai.
-* 🔭 Actualmente estoy en búsqueda de mi primera oportunidad en el mundo IT. 
+* 🔭 Actualmente estoy en búsqueda de posiciones como front-end, back-end o full stack. 
 * 🌱 Actualmente estoy desarrollando -> [].
 * 🤝 Estoy buscando colaborar en cualquier tipo de proyecto que me deje expandir experiencia y conocimientos.
 * 💬 Pregúntame sobre lo que quieras, siempre estoy dispuesto a conversar.
