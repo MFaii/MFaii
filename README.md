@@ -1,64 +1,13 @@
-<div id="header">
-  
- ### Hola!! 👋 
-* 👂 Mi nombre es Maximiliano Failla, me conocen como Fai.
-* 🔭 Actualmente estoy en búsqueda de posiciones como front-end, back-end o full stack. 
-* 🌱 Actualmente estoy desarrollando -> [Un CRUD dentro de FastApi, mientras me encuentro estudiando Python].
-* 🤝 Estoy buscando colaborar en cualquier tipo de proyecto que me deje expandir experiencia y conocimientos.
-* 💬 Pregúntame sobre lo que quieras, siempre estoy dispuesto a conversar.
-* ❤️ Me encanta todo lo relacionado al mundo la computación y el gaming.
-* 📫 Cómo contactarme:
+# 👋🏽 About Me:
+🖐🏽 Mi nombre es Maximiliano Failla, me conocen como Fai.<br><br>🔭 Actualmente estoy en búsqueda de posiciones como front-end, back-end o full stack.<br><br>📚 Me encuentro estudiando la Tecnicatura en Programación en la Universidad Tecnológica Nacional (UTN).<br><br>🤝 Estoy buscando colaborar en cualquier tipo de proyecto que me deje expandir experiencia y conocimientos.<br><br>💬 Pregúntame sobre lo que quieras, siempre estoy dispuesto a conversar.<br><br>❤️ Me encanta todo lo relacionado al mundo la computación y el gaming.
 
-  <a href="https://www.linkedin.com/in/maximilianofailla/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
-  </a>
-  <a href="mailto:faillamaximiliano@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
 
-</div>
-<div>
-  <h2> 🚀  Algunas herramientas que he usado y aprendido</h2> 
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="45" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="45" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="45" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="45" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="45" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="45" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="45" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original-wordmark.svg" height="45" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="45" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height="45" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="45" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" height="45" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="45" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" height="45" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original-wordmark.svg" height="45" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" height="45" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original-wordmark.svg" height="45" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" height="45" width="45"/>        
-</p> 
-</div>
-<div>
-  <h2>Me interesa aprender:</h2>
-  <p aling="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="45" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="45" width="45"/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maximilianofailla/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/home) 
 
-  </p>
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-  <h2>Proyectos: </h2>
-  <h4>Portfolio<br>Repo:https://github.com/MFaii/portfolio_2024 <br>Demo: https://maximilianofailla-portfolio2024.vercel.app/</h4>
-  <h4>React Tweets<br>Repo: https://github.com/MFaii/react-tweet</h4>
-  <h4>Videogames App<br>Repo: https://github.com/MFaii/PI-Videogames</h4>
-  <h4>Rick And Morty Simple App<br>Repo: https://github.com/MFaii/RickandMorty-Basic <br>Demo: https://rickand-morty-basic.vercel.app/</h4>
-</div>
-<div>
-  <h2>Proyectos Freelance </h2>
-    <h4>Portfolio para editor de videos<br>Demo:https://yoakoportfolio.vercel.app/</h4>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MFaii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
